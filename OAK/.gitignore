@@ -2,6 +2,7 @@
 out/
 .idea/
 OAK.iml
+
 !**/src/main/**/out/
 !**/src/test/**/out/
 
