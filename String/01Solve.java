@@ -15,11 +15,6 @@ class Solve{
 
 		System.out.println(str1.charAt(2)); //givies the Char which present at position 2
 		System.out.println(str1.indexOf("a"));
-		System.out.println(str1.lastIndexOf("a"));
-
-		
-		
-
-		
+		System.out.println(str1.lastIndexOf("a"));	
 	}
 }
