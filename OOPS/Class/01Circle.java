@@ -1,5 +1,4 @@
 class Circle{
-   
  //properties
  public int radius;
 
@@ -14,18 +13,14 @@ public double perimeter(){
        return 2*Math.PI*radius;
 }
 
-
 public double circumference(){
 
        return perimeter();
   }
 }
-
-
 public class Main{
        
      public static void main(String ...args){
-         
          
          Circle c1=new Circle();
          c1.radius=7;
