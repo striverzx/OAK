@@ -29,6 +29,8 @@ class Main{
 		Test1 t1=new Test2();
 		t1.method1();
 		t1.method2();
+
+        //we cannot access the method3 from different class reference
 		// t1.method3();
 
 
